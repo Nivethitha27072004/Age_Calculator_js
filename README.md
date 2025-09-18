@@ -1,11 +1,11 @@
-# 🧮 Age Calculator Website
+#  Age Calculator Website
 
 This is a simple **Age Calculator Website** built using **HTML**, **CSS**, and **JavaScript**.  
 It allows users to calculate their exact age in **years, months, and days** by entering their **name** and **date of birth (DOB)**.
 
 ---
 
-## 🚀 Features
+##  Features
 - Enter your **name** and **date of birth** to calculate age.
 - Displays exact age in **Years, Months, and Days**.
 - **Validation**:
@@ -16,7 +16,7 @@ It allows users to calculate their exact age in **years, months, and days** by e
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **HTML** – Structure of the web page  
 - **CSS** – Styling and layout  
 - **JavaScript** – Logic for calculating age and validations  
